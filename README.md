@@ -16,6 +16,14 @@
 7.__FaceMapper__
 8.__Web GUI__
 
+## Tested on
+- [x] Kali Linux 2022
+- [x] Ubuntu 2022
+#### Features
+- [x] Develop
+- [ ] GUI
+- [ ] open-source
+
 ## Dashboard
 A control panel with map of the world
 seeks help to develop Thank you to those who will answer present!
