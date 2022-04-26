@@ -48,3 +48,7 @@ Python3 eLysBot.py</pre></div>
   </tr>
  </tbody>
 </table>
+
+## Supporters
+[![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
+[![Forkers repo roster for @AeX03/eLys](https://reporoster.com/forks/AeX03/eLys)](https://github.com/AeX03/eLys/members)
