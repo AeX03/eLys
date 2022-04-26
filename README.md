@@ -19,6 +19,9 @@
 ## Tested on
 - [x] Kali Linux 2022
 - [x] Ubuntu 2022
+- [ ] Mac OS
+- [ ] Windows 10
+- [ ] Windows 11
 #### Features
 - [x] Develop
 - [ ] GUI
