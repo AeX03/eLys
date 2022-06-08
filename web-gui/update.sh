@@ -8,6 +8,7 @@ echo "The script will start in 10 seconds."
 sleep 10
 
 echo "Running Update eLysBot app setup..."
+echo "Run in sudo eLysBot for the next time."
 
 echo "						";
 echo "         888                        ";
@@ -67,6 +68,6 @@ sudo chmod +x QuickCheck.sh
 
 clear
 
-./install.sh
+sudo python3 eLysBot.pyw
 
 clear
