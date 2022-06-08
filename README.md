@@ -44,7 +44,8 @@ seeks help to develop Thank you to those who will answer present!
   <tr>
    <td>
 <div class="highlight highlight-source-shell"><pre># Get the eLys Botnet
-git clone https://github.com/AeX03/eLys</pre></div>
+git clone https://github.com/AeX03/eLys
+cd eLys/web-gui</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install the requirements (if the quickcheck does not work*)
 sudo apt install -r requirements</pre></div>
 <div class="highlight highlight-source-shell"><pre># Quick check of all components and Install
@@ -55,7 +56,7 @@ sudo bash update.sh</pre></div>
 sudo Python3 eLysBot.pyw</pre></div>
    </td>
    <td>
-    1. Clone <code>https://github.com/AeX03/eLys</code> to <code>C:\eLys</code> with <a href="https://git-scm.com/downloads">Git for Windows</a><br/><br/>
+    1. Clone <code>https://github.com/AeX03/eLys</code> to <code>C:\eLys/web-gui</code> with <a href="https://git-scm.com/downloads">Git for Windows</a><br/><br/>
    </td>
   </tr>
  </tbody>
