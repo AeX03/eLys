@@ -68,6 +68,10 @@ sudo chmod +x QuickCheck.sh
 
 clear
 
+sudo bash QuickCheck.sh
+
+clear
+
 sudo python3 eLysBot.pyw
 
 clear
