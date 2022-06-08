@@ -1,3 +1,4 @@
+#!/bin/pyw
 from cProfile import label
 from cgitb import text
 #from tkhtmlview import HTMLLabel
