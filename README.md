@@ -45,15 +45,14 @@ seeks help to develop Thank you to those who will answer present!
    <td>
 <div class="highlight highlight-source-shell"><pre># Get the eLys Botnet
 git clone https://github.com/AeX03/eLys</pre></div>
-<div class="highlight highlight-source-shell"><pre># Install the requirements
-cd eLys
+<div class="highlight highlight-source-shell"><pre># Install the requirements (if the quickcheck does not work*)
 sudo apt install -r requirements</pre></div>
-<div class="highlight highlight-source-shell"><pre># Quick check of all components
+<div class="highlight highlight-source-shell"><pre># Quick check of all components and Install
 sudo bash QuickCheck.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script
 sudo bash update.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the eLys Botnet --GUI
-Python3 eLysBot.py</pre></div>
+sudo Python3 eLysBot.pyw</pre></div>
    </td>
    <td>
     1. Clone <code>https://github.com/AeX03/eLys</code> to <code>C:\eLys</code> with <a href="https://git-scm.com/downloads">Git for Windows</a><br/><br/>
