@@ -1,4 +1,4 @@
-![Banner](https://github.com/AeX03/eLys/blob/main/logo/logo_small.png)
+![Banner](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/logo/logo_small.png)
 # eLys Botnet
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/eLys)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/eLys)
