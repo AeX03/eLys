@@ -23,6 +23,8 @@ echo "                 Y8b d88P           ";
 echo "                   Y88P"           "";
 echo "						";
 
+sleep 3
+
 clear
 
 sudo chmod +x /etc/
