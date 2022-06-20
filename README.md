@@ -24,8 +24,8 @@
 - [ ] Windows 11
 #### Features
 - [x] Develop
-- [ ] GUI
-- [ ] open-source
+- [x] GUI
+- [x] open-source
 
 ## Dashboard
 A control panel with map of the world
