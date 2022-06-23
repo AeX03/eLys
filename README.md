@@ -62,6 +62,10 @@ sudo Python3 eLysBot.pyw</pre></div>
  </tbody>
 </table>
 
+## Preview (no finish in develope)
+![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/screen/launch.png)
+![Windows](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/screen/enter.png)
+
 ## Supporters
 [![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
 [![Forkers repo roster for @AeX03/eLys](https://reporoster.com/forks/AeX03/eLys)](https://github.com/AeX03/eLys/members)
