@@ -19,7 +19,7 @@ def open_buy_license():
 windows = Tk()
 
 # Personnaliser la fenetre (windows)
-windows.geometry("1781x856")
+windows.geometry("1110x429")
 windows.title("eLys BotNet")
 windows["bg"] = "#0D1117"
 windows.iconbitmap("eLysCi.ico")
