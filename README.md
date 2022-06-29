@@ -15,6 +15,8 @@
 6.__Scanner Virus__
 7.__FaceMapper__
 8.__Web GUI__
+<br>
+__Build Bot : Windows,Mac OS and Linux__
 
 ## Tested on
 - [x] Kali Linux 2022
