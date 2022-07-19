@@ -1,0 +1,11 @@
+statistics
+tkinter *
+tkinter.ttk *
+cProfile
+cgitb
+doctest
+multiprocessing
+tkhtmlview
+webbrowser
+customtkinter
+pylance
