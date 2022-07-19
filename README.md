@@ -1,4 +1,4 @@
-![Banner](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/logo/eLysC.png)
+![Banner](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/logo/eLysC.png)
 # eLys Botnet
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/eLys)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/eLys)
@@ -67,8 +67,8 @@ sudo Python3 eLysBot.pyw</pre></div>
 </table>
 
 ## Preview (no finish in develope)
-![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/screen/launch.png)
-![Windows](https://github.com/AeX03/eLys/blob/main/web-gui/assets/images/screen/map&panel.png)
+![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/launch.png)
+![Windows](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/map&panel.png)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
