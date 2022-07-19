@@ -49,7 +49,7 @@ seeks help to develop Thank you to those who will answer present!
 git clone https://github.com/AeX03/eLys
 cd eLys/web-gui</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install the requirements (if the quickcheck does not work*)
-sudo apt install -r requirements</pre></div>
+sudo apt install -r requirements.txt</pre></div>
 <div class="highlight highlight-source-shell"><pre># Quick check of all components and Install
 sudo bash QuickCheck.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script
