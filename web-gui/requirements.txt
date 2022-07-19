@@ -1,6 +1,6 @@
 statistics
-tkinter
-tkinter.ttk
+tkinter *
+tkinter.ttk *
 cProfile
 cgitb
 doctest
