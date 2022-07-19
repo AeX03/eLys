@@ -3,23 +3,26 @@ echo "WARNING: This script will install requirements and add it as an apt source
 echo ""
 echo "If you do not want this, please press ctrl + C to cancel the script."
 echo ""
-echo "The script will start in 10 seconds."
+echo "The script will start in 5 seconds."
 
-sleep 10
+sleep 5
 
 echo "Running eLysBot app setup..."
-"
-        888                      
-        888                      
-        888                      
- .d88b. 888     888  888.d8888b  
-d8P  Y8b888     888  88888K      
-88888888888     888  888 Y8888b. 
-Y8b.    888     Y88b 888     X88 
-  Y8888 88888888  Y88888 88888P 
-                     888         
-                Y8b d88P         
-                  Y88P"   
+echo "						";
+echo "         888                        ";
+echo "         888                        ";
+echo "         888                        ";
+echo "  .d88b. 888     888  888.d8888b    ";
+echo " d8P  Y8b888     888  88888K        ";
+echo " 88888888888     888  888 Y8888b.   ";
+echo " Y8b.    888     Y88b 888     X88   ";
+echo "   Y8888 88888888  Y88888 88888P    ";
+echo "                      888           ";
+echo "                 Y8b d88P           ";
+echo "                   Y88P"           "";
+echo "						";  
+
+sleep 3
 
 # Install Python if necessary
 which python3 > /dev/null
@@ -43,8 +46,6 @@ fi
 echo "Installing Python packages..."
 python3 -m pip install CMake==3.18.4
 python3 -m pip install -r requirements.txt
-
-else
 
 	echo "Confirmed requirements is installed."
 
