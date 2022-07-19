@@ -48,7 +48,7 @@ sudo rm -rf /etc/eLys
 
 clear
 
-mkdir hackingtool
+mkdir eLys
 
 clear
 
