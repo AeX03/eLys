@@ -3,9 +3,9 @@ echo "WARNING: This script will update and install requirements, add it as an ap
 echo ""
 echo "If you do not want this, please press ctrl + C to cancel the script."
 echo ""
-echo "The script will start in 10 seconds."
+echo "The script will start in 5 seconds."
 
-sleep 10
+sleep 5
 
 echo "Running Update eLysBot app setup..."
 echo "Run in sudo eLysBot for the next time."
