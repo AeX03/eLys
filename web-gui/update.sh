@@ -28,6 +28,10 @@ sleep 3
 
 clear
 
+cd
+
+clear
+
 sudo rm -rf eLys
 
 clear
