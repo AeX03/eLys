@@ -45,7 +45,7 @@ fi
 # Install Python packages
 echo "Installing Python packages..."
 python3 -m pip install CMake==3.18.4
-python3 -m pip install -r requirements.txt
+python3 -m pip install -r eLys/web-gui/requirements.txt
 
 	echo "Confirmed requirements is installed."
 
