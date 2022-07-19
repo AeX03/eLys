@@ -20,3 +20,32 @@ Y8b.    888     Y88b 888     X88
                      888         
                 Y8b d88P         
                   Y88P"   
+
+# Install Python if necessary
+which python3 > /dev/null
+status=$?
+
+if test $status -ne 0
+then
+	echo "Installing Python 3.6..."
+	apt-get install python3.6 -y
+
+else
+	echo "Confirmed Python is installed."
+	
+	# Installs Pip even if a Python installation is found because some users don't install pip
+	
+	sudo apt install python3-pip
+
+fi
+
+# Install Python packages
+echo "Installing Python packages..."
+python3 -m pip install CMake==3.18.4
+python3 -m pip install -r requirements.txt
+
+else
+
+	echo "Confirmed requirements is installed."
+
+esac
