@@ -52,7 +52,7 @@ mkdir eLys
 
 clear
 
-cd elys
+cd eLys
 
 clear
 
@@ -60,7 +60,7 @@ git clone https://github.com/AeX03/eLys
 
 clear
 
-cd eLys
+cd eLys/web-gui
 
 clear
 
