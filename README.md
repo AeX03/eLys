@@ -71,5 +71,5 @@ sudo Python3 eLysBot.pyw</pre></div>
 ![Windows](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/map&panel.png)
 
 ## Supporters
-[![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
-[![Forkers repo roster for @AeX03/eLys](https://reporoster.com/forks/AeX03/eLys)](https://github.com/AeX03/eLys/members)
+[![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/dark/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
+[![Forkers repo roster for @AeX03/eLys](https://reporoster.com/forks/dark/AeX03/eLys)](https://github.com/AeX03/eLys/network/members)
