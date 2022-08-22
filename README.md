@@ -1,9 +1,11 @@
 ![Banner](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/logo/eLysC.png)
 # eLys Botnet
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/eLys)
-[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/eLys)
-[![Coverage Status](https://coveralls.io/repos/github.com/AeX03/eLys/badge.svg)](https://coveralls.io/github.com/AeX03/eLys)
-<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+[![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/AeX03/eLys)
+[![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
+<br>
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://github.com/AeX03/eLys)
+[![Monero](https://img.shields.io/badge/Monero-accepted%20payment-orange)](https://github.com/AeX03/eLys)
 
 
 # In Project
