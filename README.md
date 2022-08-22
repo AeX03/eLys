@@ -4,8 +4,8 @@
 [![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/AeX03/eLys)
 [![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
 <br>
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://github.com/AeX03/eLys)
-[![Monero](https://img.shields.io/badge/Monero-accepted%20payment-orange)](https://github.com/AeX03/eLys)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://img.shields.io/badge/-bc1qsa9hpku5un9uksf8eg6u6qrukyyvddu07e8kmj-lightgrey)
+[![Monero](https://img.shields.io/badge/Monero-accepted%20payment-orange)](https://img.shields.io/badge/-8Bo121p2BE8YLN6RoXfggi5Vtjqn5TCvgChopRRRczKtgXLbbWyz6mfMXhteKa7MpJRuxiUtxTmZFZiD8upBL4PsLSf9BPQ-lightgrey)
 
 
 # In Project
