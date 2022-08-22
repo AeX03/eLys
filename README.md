@@ -61,6 +61,7 @@ sudo Python3 eLysBot.pyw</pre></div>
     1. Clone <code>https://github.com/AeX03/eLys</code> to <code>C:\eLys/web-gui</code> with <a href="https://git-scm.com/downloads">Git for Windows</a><br/><br/>
      2. Folder search bar, type <code>cmd</code> to <code>C:\eLys/web-gui</code></a><br/><br/>
       3. In the cmd type <code>pip3 install -r requirements</code> then <code>python3 eLysBot.pyw</code></a><br/><br/>
+       Upgrade pip. <code>python.exe -m pip install --upgrade pip</code></a><br/><br/>
    </td>
   </tr>
  </tbody>
@@ -68,7 +69,6 @@ sudo Python3 eLysBot.pyw</pre></div>
 
 ## Preview (no finish in develope)
 ![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/launch.png)
-![Windows](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/dark/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
