@@ -40,14 +40,6 @@ def openwindows2():
     windows2["bg"] = "#0D1117"
     windows2.iconbitmap("web-gui/BuilderBoter/assets/images/lyse/eLysCi.ico")
 
-    # Barre LYSE
-    menu_principal = Menu(windows2)
-    windows2.configure(menu = menu_principal)
-    menu_lyse = Menu(menu_principal, tearoff=0)
-    menu_principal.add_cascade(label = "Lyse", menu = menu_lyse)
-    menu_lyse.add_command(label= "Smartphone", command=openwindows3)
-    menu_lyse.add_command(label= "Exit", command=quit)
-
     # Deuxième fenetre tab
     notebook = ttk.Notebook(windows2)
     tab1 = Frame(notebook)
@@ -71,37 +63,6 @@ def openwindows2():
     label(tab4, text="test", width=50, height=25).pack()
     label(tab5, text="test", width=50, height=25).pack()
     label(tab6, text="test", width=50, height=25).pack()
-
-def openwindows3():
-    windows3 = Toplevel(windows)
-    windows3.geometry("1781x856")
-    windows3.title("eLys BotNet")
-    windows3["bg"] = "#0D1117"
-    windows3.iconbitmap("web-gui/BuilderBoter/assets/images/lyse/eLysCi.ico")
-
-    # Troixieme fenetre tab
-    notebook = ttk.Notebook(windows3)
-    tab7 = Frame(notebook)
-    tab8 = Frame(notebook)
-    tab9 = Frame(notebook)
-    tab10 = Frame(notebook)
-    tab11 = Frame(notebook)
-    tab12 = Frame(notebook)
-
-    notebook.add(tab7, text="Map & Panel")
-    notebook.add(tab8, text="Build Bot")
-    notebook.add(tab9, text="Remote Access")
-    notebook.add(tab10, text="Terminal")
-    notebook.add(tab11, text="View")
-    notebook.add(tab12, text="Check APP")
-    notebook.pack()
-
-    label(tab7, text="test", width=50, height=25).pack()
-    label(tab8, text="test", width=50, height=25).pack()
-    label(tab9, text="test", width=50, height=25).pack()
-    label(tab10, text="test", width=50, height=25).pack()
-    label(tab11, text="test", width=50, height=25).pack()
-    label(tab12, text="test", width=50, height=25).pack()
 
 # Button Computer (windows)
 Button_Computer = Button(windows, command=openwindows2)
