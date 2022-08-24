@@ -65,7 +65,7 @@ def openwindows2():
     label(tab6, text="test", width=50, height=25).pack()
 
 # Button Computer (windows)
-Button_Computer = Button(windows, command=openwindows2)
+Button_Computer = Button(windows, text="Connections", command=openwindows2)
 Button_Computer.place(x="800", y="680")
 Button_Computer.pack(expand=YES)
 
