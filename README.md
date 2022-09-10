@@ -6,6 +6,9 @@
 <br>
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://img.shields.io/badge/-bc1qsa9hpku5un9uksf8eg6u6qrukyyvddu07e8kmj-lightgrey)
 [![Monero](https://img.shields.io/badge/Monero-accepted%20payment-orange)](https://img.shields.io/badge/-8Bo121p2BE8YLN6RoXfggi5Vtjqn5TCvgChopRRRczKtgXLbbWyz6mfMXhteKa7MpJRuxiUtxTmZFZiD8upBL4PsLSf9BPQ-lightgrey)
+<br>
+[![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
+[![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 
 
 # In Project
