@@ -42,12 +42,12 @@ def openwindows2():
 
     # Deuxième fenetre tab
     notebook = ttk.Notebook(windows2)
-    tab1 = Frame(notebook)
-    tab2 = Frame(notebook)
-    tab3 = Frame(notebook)
-    tab4 = Frame(notebook)
-    tab5 = Frame(notebook)
-    tab6 = Frame(notebook)
+    tab1 = Frame(notebook, width=1700, height=800)
+    tab2 = Frame(notebook, width=1700, height=800)
+    tab3 = Frame(notebook, width=1700, height=800)
+    tab4 = Frame(notebook, width=1700, height=800)
+    tab5 = Frame(notebook, width=1700, height=800)
+    tab6 = Frame(notebook, width=1700, height=800)
 
     notebook.add(tab1, text="Map & Panel")
     notebook.add(tab2, text="Build Bot")
