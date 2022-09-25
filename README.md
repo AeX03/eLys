@@ -78,6 +78,9 @@ sudo Python3 eLysBot.pyw</pre></div>
 ## Preview (no finish in develope)
 ![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/launch.png)
 
+## License
+AeX03 is made with 🖤 [Contributors](https://github.com/AeX03/eLys/graphs/contributors). See the **License** file for more details.
+
 ## Supporters
 [![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/dark/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
 [![Forkers repo roster for @AeX03/eLys](https://reporoster.com/forks/dark/AeX03/eLys)](https://github.com/AeX03/eLys/network/members)
