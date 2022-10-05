@@ -76,8 +76,8 @@ sudo Python3 eLysBot.pyw</pre></div>
 </table>
 
 ## Preview (no finish in develope)
-![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/loginVLCAD231119.png)
-![eLys](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/dashboardVLCAD231119.png)
+![Launcher](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/LoginVLCAD231119.png)
+![eLys](https://github.com/AeX03/eLys/blob/main/web-gui/BuilderBoter/assets/images/screen/DashboardVLCAD231119.png)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/eLys](https://reporoster.com/stars/dark/AeX03/eLys)](https://github.com/AeX03/eLys/stargazers)
