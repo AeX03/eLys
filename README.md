@@ -12,7 +12,9 @@
 [![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 <br>
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.eLys&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
+<br>
 
+[![ELYS TOKEN](https://img.shields.io/badge/ELYS%20TOKEN-pink.svg)](https://app.bogged.finance/swap?tokenIn=BNB&tokenOut=0xdf31C98e74cf5aD09312f15D454C3C5ac27BcF36&embed=1)
 
 # In Project
 1.__Persistence__
